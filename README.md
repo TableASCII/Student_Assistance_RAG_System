@@ -46,7 +46,7 @@ Score: 0.3800 | Должность: Проректор по управлению
 
 - LLM, используя предоставленный контекст, формулирует ответ.
 
-![Интерфейс системы]<img width="715" height="394" alt="image" src="https://github.com/user-attachments/assets/a5fd7470-8bf1-4d99-812e-be3c9f3e2b75" />
+[Интерфейс системы]<img width="715" height="394" alt="image" src="https://github.com/user-attachments/assets/a5fd7470-8bf1-4d99-812e-be3c9f3e2b75" />
 
 # Структура проекта  
 Проект состоит из трёх этапов, реализованных в отдельных ноутбуках:

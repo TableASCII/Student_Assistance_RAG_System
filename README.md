@@ -51,7 +51,7 @@ Score: 0.3800 | Должность: Проректор по управлению
 # Структура проекта  
 Проект состоит из трёх этапов, реализованных в отдельных ноутбуках:
 Файлы проекта:
-- [create_dataset.ipynb](create_dataset.ipynb) - Подготовка данных
+- [create_dataset.ipynb](./notebooks/create_dataset.ipynb) - Подготовка данных
 
     - Обработка и очистка путеводителя
 
@@ -59,11 +59,11 @@ Score: 0.3800 | Должность: Проректор по управлению
 
     - Формирование датасета для обучения
 
-- [retrieval_training.ipynb](retrieval_training.ipynb) - Обучение модели
+- [retrieval_training.ipynb](./notebooks/retrieval_training.ipynb) - Обучение модели
 
     - Fine-tuning модели E5 
 
-- [rag_system.ipynb](rag_system.ipynb) - Основной файл, RAG
+- [rag_system.ipynb](./notebooks/rag_system.ipynb) - Основной файл, RAG
 
     - Создание векторного хранилища с помощью FAISS
 

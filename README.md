@@ -59,11 +59,11 @@ Score: 0.3800 | Должность: Проректор по управлению
 
     - Формирование датасета для обучения
 
-- [retrieval_training.ipynb](./notebooks/retrieval_training.ipynb) - Обучение модели
+- [retrieval_training.ipynb](./notebooks/retrieval-training.ipynb) - Обучение модели
 
     - Fine-tuning модели E5 
 
-- [rag_system.ipynb](./notebooks/rag_system.ipynb) - Основной файл, RAG
+- [rag_system.ipynb](./notebooks/rag-system.ipynb) - Основной файл, RAG
 
     - Создание векторного хранилища с помощью FAISS
 
